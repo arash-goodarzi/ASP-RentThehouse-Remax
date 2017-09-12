@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ClassLibraryRemax.ClsHouse">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClsHouse.cs</FileName>
+      <NewMemberFileName>clsHouse.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibraryRemax.ClsClient">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClsClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibraryRemax.ClsAgent">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClsAgent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibraryRemax.ClsRemax">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClsRemax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibraryRemax.ClsAdmin">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClsAdmin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibraryRemax.ClsEmployee">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClsEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibraryRemax.ClsLstClients">
+    <Position X="6.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClsLstClients.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibraryRemax.ClsLstAgents">
+    <Position X="4.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClsLstAgents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibraryRemax.ClsLstHouses">
+    <Position X="8.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClsLstHouses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibraryRemax.ClsLstAdmins">
+    <Position X="2.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClsLstAdmins.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibraryRemax.ClsLstEmployees">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClsLstEmployees.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

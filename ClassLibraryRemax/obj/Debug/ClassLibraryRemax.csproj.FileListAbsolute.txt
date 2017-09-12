@@ -1,0 +1,5 @@
+C:\Users\Aurash\Desktop\finalProject\arashGoodarzi\prjCsRemax\ClassLibraryRemax\bin\Debug\ClassLibraryRemax.dll
+C:\Users\Aurash\Desktop\finalProject\arashGoodarzi\prjCsRemax\ClassLibraryRemax\bin\Debug\ClassLibraryRemax.pdb
+C:\Users\Aurash\Desktop\finalProject\arashGoodarzi\prjCsRemax\ClassLibraryRemax\obj\Debug\ClassLibraryRemax.csprojResolveAssemblyReference.cache
+C:\Users\Aurash\Desktop\finalProject\arashGoodarzi\prjCsRemax\ClassLibraryRemax\obj\Debug\ClassLibraryRemax.dll
+C:\Users\Aurash\Desktop\finalProject\arashGoodarzi\prjCsRemax\ClassLibraryRemax\obj\Debug\ClassLibraryRemax.pdb
